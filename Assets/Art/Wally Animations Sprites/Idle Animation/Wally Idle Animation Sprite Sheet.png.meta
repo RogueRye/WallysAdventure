@@ -1,0 +1,1045 @@
+fileFormatVersion: 2
+guid: f3515b4a804d7134ab6c323bb0092653
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Wally Idle Animation Sprite Sheet_0
+    21300002: Wally Idle Animation Sprite Sheet_1
+    21300004: Wally Idle Animation Sprite Sheet_2
+    21300006: Wally Idle Animation Sprite Sheet_3
+    21300008: Wally Idle Animation Sprite Sheet_4
+    21300010: Wally Idle Animation Sprite Sheet_5
+    21300012: Wally Idle Animation Sprite Sheet_6
+    21300014: Wally Idle Animation Sprite Sheet_7
+    21300016: Wally Idle Animation Sprite Sheet_8
+    21300018: Wally Idle Animation Sprite Sheet_9
+    21300020: Wally Idle Animation Sprite Sheet_10
+    21300022: Wally Idle Animation Sprite Sheet_11
+    21300024: Wally Idle Animation Sprite Sheet_12
+    21300026: Wally Idle Animation Sprite Sheet_13
+    21300028: Wally Idle Animation Sprite Sheet_14
+    21300030: Wally Idle Animation Sprite Sheet_15
+    21300032: Wally Idle Animation Sprite Sheet_16
+    21300034: Wally Idle Animation Sprite Sheet_17
+    21300036: Wally Idle Animation Sprite Sheet_18
+    21300038: Wally Idle Animation Sprite Sheet_19
+    21300040: Wally Idle Animation Sprite Sheet_20
+    21300042: Wally Idle Animation Sprite Sheet_21
+    21300044: Wally Idle Animation Sprite Sheet_22
+    21300046: Wally Idle Animation Sprite Sheet_23
+    21300048: Wally Idle Animation Sprite Sheet_24
+    21300050: Wally Idle Animation Sprite Sheet_25
+    21300052: Wally Idle Animation Sprite Sheet_26
+    21300054: Wally Idle Animation Sprite Sheet_27
+    21300056: Wally Idle Animation Sprite Sheet_28
+    21300058: Wally Idle Animation Sprite Sheet_29
+    21300060: Wally Idle Animation Sprite Sheet_30
+    21300062: Wally Idle Animation Sprite Sheet_31
+    21300064: Wally Idle Animation Sprite Sheet_32
+    21300066: Wally Idle Animation Sprite Sheet_33
+    21300068: Wally Idle Animation Sprite Sheet_34
+    21300070: Wally Idle Animation Sprite Sheet_35
+    21300072: Wally Idle Animation Sprite Sheet_36
+    21300074: Wally Idle Animation Sprite Sheet_37
+    21300076: Wally Idle Animation Sprite Sheet_38
+    21300078: Wally Idle Animation Sprite Sheet_39
+    21300080: Wally Idle Animation Sprite Sheet_40
+    21300082: Wally Idle Animation Sprite Sheet_41
+    21300084: Wally Idle Animation Sprite Sheet_42
+    21300086: Wally Idle Animation Sprite Sheet_43
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wally Idle Animation Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 308
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca7cecf99fe6974ca69870e69adc6ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wally Idle Animation Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 308
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5cbdbf93650de14a9601335ad92b394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wally Idle Animation Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 308
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82fb10f862313ce44a1bc83fe32ea6b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wally Idle Animation Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 308
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb46d14cc7eedfa4a885b557e4dabfc5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wally Idle Animation Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 308
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8686676c0f8320e41aa25abeaf9de41f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wally Idle Animation Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 308
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a4c08d88aec824a9237cd352a865a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wally Idle Animation Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 308
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86794678a4f907c498e8ca2f4b6002e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wally Idle Animation Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 258
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1327f9602ddef46bb5bd4a513b0ae7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wally Idle Animation Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 258
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10999c24a154b8b4a9ceb78000c7f8a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wally Idle Animation Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 258
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6256a2e9164910a4aa5429cb021419a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wally Idle Animation Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 258
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a970983f77017074495f0d0f3a76e37e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wally Idle Animation Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 258
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58ca45ccfaac4e4aa41cc3843c0a292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wally Idle Animation Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 258
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7169cdf58fcb1e4c83026158c3cd188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wally Idle Animation Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 258
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a02cf0c69f8df40aed7c628bda697c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wally Idle Animation Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 208
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c43b23fe43526469606f36d70ed927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wally Idle Animation Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 208
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f8847d3e950dd46a14dd79c2600244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wally Idle Animation Sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 208
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d63b40df1e72284ead6f800dcb6dbac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wally Idle Animation Sprite Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 208
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d988caf71a719498b8ce27e6a5b4cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wally Idle Animation Sprite Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 208
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e50a1126bc2197449d1117ba26b564f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wally Idle Animation Sprite Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 208
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8605ea31ea268439caf855b908c387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wally Idle Animation Sprite Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 208
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41653a544554d50408c420870b3fb235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wally Idle Animation Sprite Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 158
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9137109a0cb3dfd498c99448eae81132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wally Idle Animation Sprite Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 158
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0dcc6ffda2c90045b9825f5698d0de5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wally Idle Animation Sprite Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 158
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b4a2caeae25d7488c7df184d540b04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wally Idle Animation Sprite Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 158
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd30e0290aed7949a317d95b765c7a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wally Idle Animation Sprite Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 158
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421e7fca469ad584fbbead5296b313b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wally Idle Animation Sprite Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 158
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa66e70413e08e4ca2e396bf22ae24c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wally Idle Animation Sprite Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 158
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca7a6c77218e224e9a4a5508ddfedc0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wally Idle Animation Sprite Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 108
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef11912d7d917e4d931c4641712d52e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wally Idle Animation Sprite Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 108
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208c0e1f0961fd54ba757e0f5e907c94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wally Idle Animation Sprite Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 108
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6487dab4400e8fd4b927765cb80a33cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wally Idle Animation Sprite Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 108
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10db610d3572ea746855c32f6b6dc0fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wally Idle Animation Sprite Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 108
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcf307a14c4e064d8971181e67fc8b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wally Idle Animation Sprite Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 108
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e88602827a069b40a19749c0fbf0a03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wally Idle Animation Sprite Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 108
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a90c052a2e44b4c8f1f969aa62325e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wally Idle Animation Sprite Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 58
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db90413f584317344a23b5cf19f52446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wally Idle Animation Sprite Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 58
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a79b2a9e4037b943aa07551ec2f7691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wally Idle Animation Sprite Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 58
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ac387b826eb6244afebf664a0d4fb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wally Idle Animation Sprite Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 58
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d219871184bee764b8c98a75e9db1dfd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wally Idle Animation Sprite Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 58
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62aecf39a8399924cb400e2149547a8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wally Idle Animation Sprite Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 58
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63172e432a1ae3840a724a4c3799bc93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wally Idle Animation Sprite Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 58
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64724e285ab0be848b11094157b1c3e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wally Idle Animation Sprite Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 8
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f2c882b81513e44b08dbd2241f90b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wally Idle Animation Sprite Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 8
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b91352870de0e84384ee683d0d157e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 803de842e10fca74ca99c1b7e9c369ee
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
