@@ -267,7 +267,7 @@ GameObject:
   - component: {fileID: 794113848}
   - component: {fileID: 794113847}
   - component: {fileID: 794113846}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Ground
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -576,13 +576,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   graphics: {fileID: 2055614622}
   camController: {fileID: 1303527495}
-  jumpForce: 6
-  moveSpeed: 7
+  jumpForce: 25
+  jumpForward: 4
+  moveSpeed: 13
   groundPoint: {fileID: 1554628218}
   radius: 0.09
   groundMask:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 512
   grounded: 0
 --- !u!1 &1554628217
 GameObject:

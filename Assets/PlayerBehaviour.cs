@@ -11,6 +11,7 @@ public class PlayerBehaviour : MonoBehaviour {
 
     [Header("Stats")]
     public float jumpForce = 6;
+    public float jumpForward = 7;
     public float moveSpeed; 
 
 
@@ -26,7 +27,7 @@ public class PlayerBehaviour : MonoBehaviour {
     Rigidbody2D rb;
     Animator anim;
     private bool isSprinting;
-
+    bool canJump = true;
     float inputH = 0;
     Vector2 moveDir;
 
@@ -37,16 +38,27 @@ public class PlayerBehaviour : MonoBehaviour {
         camController.Init();
 	}
 	
+
 	// Update is called once per frame
 	void Update () {
         grounded = Physics2D.OverlapCircle(groundPoint.position, radius, groundMask);
 
         Move();
 
+        if (grounded && Input.GetButtonDown("Jump"))
+        {
+            Jump();
+        }
+        HandleAnimStates();
         camController.Tick();
     }
 
+    void HandleAnimStates()
+    {
+        anim.SetBool("falling", rb.velocity.y < 0);
+        anim.SetBool("inAir", !grounded);
 
+    }
     public void Move()
     {
         if (!anim.GetBool("canMove"))
@@ -71,6 +83,8 @@ public class PlayerBehaviour : MonoBehaviour {
 
             var targetRot = Quaternion.Euler(Vector3.up * lookDir);
             transform.rotation = Quaternion.Lerp(transform.rotation, targetRot, Time.deltaTime * 10);
+
+  
         }
         else
         {
@@ -86,6 +100,15 @@ public class PlayerBehaviour : MonoBehaviour {
     {
         rb.AddForce(moveDir, ForceMode2D.Impulse);
     }
+
+    public void Jump()
+    {
+
+        anim.Play("Jump");
+
+        rb.AddForce((moveDir * jumpForward) + (Vector2.up * jumpForce), ForceMode2D.Impulse);
+    }
+
     void OnDrawGizmos()
     {
         Gizmos.color = Color.red;
